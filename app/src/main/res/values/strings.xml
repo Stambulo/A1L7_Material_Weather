@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="city">Enter City</string>
+    <string name="password">Password</string>
+    <string name="ok">Next</string>
+    <string name="title_activity_coordinator_layout">CoordinatorLayoutActivity</string>
+</resources>
