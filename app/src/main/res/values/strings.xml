@@ -4,4 +4,7 @@
     <string name="password">Password</string>
     <string name="ok">Next</string>
     <string name="title_activity_coordinator_layout">CoordinatorLayoutActivity</string>
+    <string name="justText">Демонстрация элементов материального дизайна, MaterialButton и TextInputEditText</string>
+    <string name="show">Show</string>
+    <string name="snackBarDemo">Демонстрация элемента SnackBar</string>
 </resources>
